@@ -1,12 +1,12 @@
 # VRP
 Using Python 3.5 and various Google Api and others to solve the Vehicle Routing Problem
 
-So I have built VRP solver by modifying the Googles OR-tools demo they have in the developer guide. Yeah! Problem solved. That felt like cheating, and karma agreed! I lost that solution to the VRP, thanks to a windows update/reboot, so I am going recode it! Like from scratch. Mostly. I dunno. So far I am on kinda the right track. I'll probably use the OR-Tools solver, at bare minimum, or I might try Pulp or other libraries to finish out this project's framework and solver if I am feeling overly ambitious.
+So I have built VRP solver by modifying the Googles OR-tools demo they have in the developer guide. Yeah! Problem solved. That felt like cheating, and karma agreed! I lost that solution to the VRP, thanks to a windows update/reboot, so I am going recode it! Like from scratch. Mostly. I dunno. So far I am kinda on the right track. I'll probably use the OR-Tools solver, at bare minimum, or I might try Pulp or other libraries to finish out this project's framework and solver if I am feeling overly ambitious.
 
 
 AS OF 12/17/18
 
-I have 2 parts complete in this project. Geocode.py and distancematrix.py work in unison to take a csv file, pull locations out and covert them to lat/long coordinates, figure out distance from each location to each location, and return the distances into a data frame.
+I have 2 parts completed in this project. Geocode.py and distancematrix.py work in unison to take a csv file, pull locations out and covert them to lat/long coordinates, figure out distance from each location to each location, and return the distances into a data frame.
 Check out the sweet picture below to see distancematrix.py final out put.
 
 ![distance matrix](https://i.ibb.co/vPt4n8C/distancematrix.jpg)
