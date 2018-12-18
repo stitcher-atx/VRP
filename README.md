@@ -11,7 +11,7 @@ Check out the sweet picture below to see distancematrix.py final out put.
 
 ![distance matrix](https://i.ibb.co/vPt4n8C/distancematrix.jpg)
 
-That's a sexy data frame. And it only takes like 30 seconds to generate... Oh, I'm not a professional coder. Aspiring, sure, so suggestions to optimize sections of code are appreciated. 
+That's a sexy data frame. And it only takes like 30 seconds to generate... That seems slow as hell. Oh, I'm not a professional coder. Aspiring, sure, so suggestions to optimize sections of code are appreciated. 
 
 
 If you wanna follow along by using my code you will need to get an Api key to use Google DistanceMatrix Api and probably maps as well. 
