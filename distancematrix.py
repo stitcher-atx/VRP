@@ -52,7 +52,7 @@ def buildmatrix(url):
         #move to next element to loop over
         i += 1
 
-    #convert fictionary into a matrix, hell yeah!
+    #convert dictionary into a matrix, hell yeah!
     df = pd.DataFrame.from_dict(dictdf, orient='index')
     print (df)
 
